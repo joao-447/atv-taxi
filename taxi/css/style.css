@@ -1,0 +1,13 @@
+
+
+@media screen {
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    header ul{
+        display: flex;
+        gap: 2vw;
+    }
+}
